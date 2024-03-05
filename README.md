@@ -37,6 +37,7 @@ R= {
 
 ### Graphical Representation
 
+![WhatsApp Image 2024-03-05 at 7 55 17 AM](https://github.com/kanishka2305/mdp-representation/assets/113497357/f1127599-853e-431d-8019-506f9441bc95)
 
 
 ## PYTHON REPRESENTATION:
